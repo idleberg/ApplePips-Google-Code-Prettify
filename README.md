@@ -1,4 +1,4 @@
-# Kimbie for Google Code Prettify
+# Apple Pips for Google Code Prettify
 
 A color scheme inspired by the GiveUpArt's artwork for the [Apple Pips][1] record label.
 
